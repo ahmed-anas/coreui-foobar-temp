@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Foobar it should match snap 1`] = `
+Array [
+  <div
+    className="app flex-row align-items-center"
+  >
+    this is foobar!!yaiiyad
+    <input
+      name="mainOther"
+      type="text"
+    />
+    <input
+      name="main"
+      onChange={[Function]}
+      type="text"
+    />
+    <input
+      name="mainMan"
+      type="text"
+    />
+  </div>,
+]
+`;
